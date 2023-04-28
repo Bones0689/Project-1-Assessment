@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #displayNumber {
+  font-size: 200px;
+  }
+  
+  #displayInput {
+   width: 10vw;
+   height: 2vh;
+  }
+  
+ 
